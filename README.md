@@ -8,12 +8,23 @@
   [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
   [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
   [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+  [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.crafzio.learnjavax.learnjavax)
   [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 </div>
 
 ## 🚀 Overview
 
 LearnJavaX is a comprehensive Flutter-based mobile application designed to teach Java programming from beginner to advanced levels. The app provides an interactive learning experience with structured lessons, mock tests, and progress tracking.
+
+## 📱 **Now Available on Google Play Store!**
+
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.crafzio.learnjavax.learnjavax">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play">
+  </a>
+</div>
+
+**Download LearnJavaX today and start your Java programming journey!**
 
 ## ✨ Features
 
@@ -231,10 +242,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Website**: [https://sites.google.com/view/learnjavax/home](https://sites.google.com/view/learnjavax/home)
-- **Privacy Policy**: [Privacy Policy](https://sites.google.com/view/learnjavax/home)
-- **Terms & Conditions**: [Terms & Conditions](https://sites.google.com/view/learnjavax/home)
-- **Support**: crafziogroup@gmail.com
+- **📱 Google Play Store**: [Download LearnJavaX](https://play.google.com/store/apps/details?id=com.crafzio.learnjavax.learnjavax)
+- **🌐 Website**: [https://sites.google.com/view/learnjavax/home](https://sites.google.com/view/learnjavax/home)
+- **🔒 Privacy Policy**: [Privacy Policy](https://sites.google.com/view/learnjavax/home)
+- **📋 Terms & Conditions**: [Terms & Conditions](https://sites.google.com/view/learnjavax/home)
+- **📧 Support**: crafziogroup@gmail.com
 
 ## 📊 Project Statistics
 
